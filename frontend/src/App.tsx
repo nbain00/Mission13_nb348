@@ -5,7 +5,9 @@ import Home from './Home';
 import Podcast from './Podcasts';
 import MoviePage from './MoviePage';
 
+// Main app
 function App() {
+  // This function will handle the routing
   return (
     <BrowserRouter>
       <Routes>

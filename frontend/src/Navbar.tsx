@@ -3,6 +3,7 @@ import './navbar.css';
 import { Link } from 'react-router-dom';
 
 function Navbar() {
+  // Here's a sweet navbar for the page. It's got it's own css. Hope that's enough styling
   return (
     <>
       <div className="navbar">
